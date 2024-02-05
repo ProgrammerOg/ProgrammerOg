@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an aircraft maintenance engineer with a passio
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** HTML/CSS, JavaScript, Python, and a little C++
+- **Languages:** HTML/CSS, JavaScript, Python, and C++
 - **Frameworks & Libraries:** Terraform, Ansible, Prometheus, Jenkins, and Kubernetes (a bit)
 
 
