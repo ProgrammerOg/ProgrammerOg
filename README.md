@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an aircraft maintenance engineer with a passio
 
 ## 📫 Contact
 
-Feel free to reach out to me at [eddyoghomwen@gmail.com] or through [LinkedIn](www.linkedin.com/in/edmundoghomwen) if you have any questions or collaboration opportunities.
+Feel free to reach out to me at [edmundoghomwen@gmail.com] or through [LinkedIn](www.linkedin.com/in/edmundoghomwen) if you have any questions or collaboration opportunities.
 
 ## 🎉 Thanks for visiting!
 
