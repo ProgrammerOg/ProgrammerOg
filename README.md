@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an aircraft maintenance engineer with a passio
 ## 👥 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/edmundoghomwen)
-- [Personal Website/Blog](your-website)
+- [Personal Website/Blog](coming soon)
 - edmundoghomwen@gmail.com
 
 ## 📫 Contact
