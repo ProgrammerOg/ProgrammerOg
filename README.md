@@ -1,4 +1,4 @@
-# Hello, I'm Edmund👋
+# Hi, I'm Edmund👋
 
 Welcome to my GitHub profile! I'm an engineer with a passion for cloud deployments. Here, you'll find a collection of my projects and contributions. I'm just getting started.
 
