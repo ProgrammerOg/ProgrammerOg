@@ -1,6 +1,6 @@
 # Hi, I'm Edmund👋
 
-Welcome to my GitHub profile! I'm an engineer by degree with a passion for securint cloud deployments. Here, you'll find a collection of my projects and contributions. I'm just getting started.
+Welcome to my GitHub profile! I'm an engineer by degree with a passion for securing cloud deployments. Here, you'll find a collection of my projects and contributions. I'm just getting started.
 
 ## 🔧 Technologies & Tools
 
