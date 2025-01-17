@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an engineer by degree with a passion for secur
 - [Personal Website/Blog](coming soon)
 - ogedmund@outlook.com
 
-## 📫 Contact
+## 📫 Contact ME
 
 Feel free to reach out to me at [ogedmund@outlook.com] or through [LinkedIn](www.linkedin.com/in/ogedmund) if you have any questions or collaboration opportunities.
 
