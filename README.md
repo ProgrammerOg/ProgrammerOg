@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an engineer by degree with a passion for secur
 
 - CI/CD, IaC, Cloud Security. I guess all things DevSecOps ;)
 
-## 👥 Connect with Me
+## 👥 Like what you see ? Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/ogedmund)
 - [Personal Website/Blog](coming soon)
