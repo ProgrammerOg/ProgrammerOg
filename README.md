@@ -1,11 +1,11 @@
-# Hi, I'm Edmund👋
+# Hi, I'm OG_Edmund👋
 
 Welcome to my GitHub profile! I'm an engineer by degree with a passion for securing cloud deployments. Here, you'll find a collection of my projects and contributions. I'm just getting started.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** HTML/CSS, JavaScript, Python, and C++
-- **Frameworks & Libraries:** Terraform, Ansible, Prometheus, Jenkins, and Kubernetes 
+- **Frameworks & Libraries:** Docker, Terraform, Ansible, Prometheus, Jenkins, and Kubernetes 
 
 
 ## 🌱 Currently Learning
