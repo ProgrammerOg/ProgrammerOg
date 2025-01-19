@@ -25,5 +25,3 @@ Feel free to reach out to me at [ogedmund@outlook.com] or through [LinkedIn](www
 ## 🎉 Thanks for visiting!
 
 I appreciate your time checking out my GitHub profile. Feel free to explore my repositories, and I welcome any feedback or collaboration.
-
-Happy coding! 🚀
